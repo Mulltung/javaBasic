@@ -1,4 +1,4 @@
-package j_collection;
+package k_jdbc;
 
 import java.util.ArrayList;
 import java.util.HashMap;
